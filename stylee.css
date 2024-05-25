@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+  }
+  
+  body{
+    background-color: #000;
+  }
+  
+  .pt-serif-bold {
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #fff;
+  }
+  
+  header{
+    min-height: 100vh;
+    background-color: #000;
+
+  }
